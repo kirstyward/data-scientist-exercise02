@@ -1,13 +1,15 @@
 ## RTI CDS Analytics Exercise 02 - Kirsty Weitzel
 
 
-There are three main notebooks included in this repo:
+There are three main notebooks included in this repo, along with a one-page report:
 
 - `NSTB.ipynb` - Data cleaning and exploration of the XML NTSB data
 
 - `narrative_topics.ipynb` - Exploration of the json narrative data. Includes text pre-processing, corpus counts, and topic modeling (LDA)
 
 - `fatality_modeling.ipynb` - Classification of accidents/incidents based on fatal/non-fatal accidents using `catboost` and `shap`
+
+- `NTSB_report_KirstyWeitzel` - One page report of relevant findings for the client
 
 
 --------
