@@ -1,4 +1,14 @@
-## RTI CDS Analytics Exercise 02
+## RTI CDS Analytics Exercise 02 - Kirsty Weitzel
+
+
+There are three main notebooks included in this repo:
+
+`NSTB.ipynb` - Data cleaning and exploration of the XML NTSB data
+`narrative_topics.ipynb` - Exploration of the json narrative data. Includes text pre-processing, corpus counts, and topic modeling (LDA)
+`fatality_modeling.ipynb` - Classification of accidents/incidents based on fatal/non-fatal accidents using `catboost` and `shap`
+
+
+--------
 
 Welcome to Exercise 02. This exercise provides data from the [National Transportation Safety Board](http://www.ntsb.gov/Pages/default.aspx)'s [database of aviation accidents](http://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx). We'll ask you to perform some routine high-level analytic tasks with the data. 
 
