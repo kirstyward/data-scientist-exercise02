@@ -3,9 +3,11 @@
 
 There are three main notebooks included in this repo:
 
-`NSTB.ipynb` - Data cleaning and exploration of the XML NTSB data
-`narrative_topics.ipynb` - Exploration of the json narrative data. Includes text pre-processing, corpus counts, and topic modeling (LDA)
-`fatality_modeling.ipynb` - Classification of accidents/incidents based on fatal/non-fatal accidents using `catboost` and `shap`
+- `NSTB.ipynb` - Data cleaning and exploration of the XML NTSB data
+
+- `narrative_topics.ipynb` - Exploration of the json narrative data. Includes text pre-processing, corpus counts, and topic modeling (LDA)
+
+- `fatality_modeling.ipynb` - Classification of accidents/incidents based on fatal/non-fatal accidents using `catboost` and `shap`
 
 
 --------
